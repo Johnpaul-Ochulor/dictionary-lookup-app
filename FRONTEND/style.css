@@ -37,13 +37,14 @@ input[type="text"]{
     cursor: pointer;
     transition: background-color 2s ease;
 }
-.searchbar button{
+.searchbox button{
     background-color:rgb(7, 67, 67) ;
     border-radius: 8px;
     color: white;
+    padding: 8px;
 }
 
-.searchbar button:hover{
+.searchbox button:hover{
     background-color:rgb(5, 101, 101);
     color: white;
 }
@@ -51,9 +52,12 @@ input[type="text"]{
 #result{
     margin-top: 25px;
     font-size: 18px;
-    color: blue;
+    color: white;
     word-wrap: break-word;
-    text-align: left;
+    text-align: center;
+    background-color: rgb(97, 7, 175);
+    border-radius: 6%;
+ 
 }
 
 @media(max-width: 500px){
@@ -83,5 +87,5 @@ input[type="text"]{
         font-size: 14px;
         padding: 8px;
     }
-    /* result */
+    
 }

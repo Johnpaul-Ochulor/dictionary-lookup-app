@@ -1,5 +1,5 @@
-const input = document.getElementById("insert");
-const button = document.getElementById("searchBTN");
+const input = document.getElementById("search");
+const button = document.getElementById("BTN");
 const resultDiv = document.getElementById("result");
 
 button.addEventListener("click", async()=>{
