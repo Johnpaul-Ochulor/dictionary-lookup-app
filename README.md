@@ -44,3 +44,37 @@ dictionary_lookup_app/
 4. The backend reads `dictionary.json` using Node's `fs` module and searches for the requested word.
 5. The backend sends back the definition as JSON.
 6. The frontend displays the definition on the page
+
+## ⚙️ How This Project Works
+1. The frontend is served by the Express server (`server.js`).
+2. When a user enters a word and clicks **Search**, the frontend sends
+## ▶️ How to Run the Project Locally
+
+## 1. Clone the repository
+git clone <repository-url>
+
+## 2. Navigate into the project folder
+cd dictionary_lookup_app
+
+## 3. Install dependencies
+npm install
+
+## 4. Start the server in your terminal
+node server.js
+
+## Open the app in your browser
+http://localhost:3000
+
+
+##  Important Notes
+
+- Do not open index.html directly in the browser.
+
+- The application must be accessed through the Express server.
+
+- node_modules is ignored using .gitignore.
+
+
+## Changes are pushed to GitHub and merged via Pull Requests
+
+## Git is used to manage versions and avoid conflicts.
