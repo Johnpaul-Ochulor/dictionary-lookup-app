@@ -21,6 +21,8 @@ It uses a Node.js and Express backend to serve word definitions from a JSON file
 - Express.js
 - Git and Github
 
+- Note: JSON is used as a data format to store dictionary entries.
+
 ## PROJECT USAGE
 1. Users can enter a word in the search box and click the **Search** button.
 2. The app will display the definition of the word if it exists in `dictionary.json`.
