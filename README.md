@@ -3,7 +3,7 @@
 
 ## PROJECT DESCRIPTION
 The Dictionary Lookup App is a simple full-stack web application that allows users to search for words and view their meanings.  
-It uses a Node.js and Express backend to serve word definitions from a JSON file, and a basic HTML/CSS/JavaScript frontend for user interaction.
+It uses a Node.js and Express backend to serve word definitions from a JSON file, and a frontend built with HTML, CSS, and JavaScript for user interaction.
 
 ##  PROJECT FEATURES
 - Search for word and definitions
