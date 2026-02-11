@@ -67,6 +67,8 @@ dictionary_lookup_app/
 ## Open the app in your browser
 http://localhost:3000
 
+ ## To get all dictionary entries, run on your browser
+ http://localhost:3000/allwords.html 
 
 ## IMPORTANT NOTES 
 - Do not open index.html directly in the browser.
