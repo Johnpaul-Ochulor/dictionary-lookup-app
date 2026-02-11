@@ -25,21 +25,24 @@ It uses a Node.js and Express backend to serve word definitions from a JSON file
 2. The app will display the definition of the word if it exists in `dictionary.json`.
 3. If the word is not found, it will display a message indicating that the word is not in the dictionary.
 
-## PROJECT STRUCTURE
+## 📂 Project Structure
+
 dictionary_lookup_app/
-│
+|
 ├── git folder
 ├── node_modules(not pushed to github)
 └── public/
+    ├── allwords.html
     ├── index.html
-    ├── style.css
-    └── scripts.js
+    ├── logo.jpeg
+    ├── scripts.js
+    └── style.css
 ├── .gitignore
 ├── dictionary.json
 ├── package-lock.json
 ├── package.json
 ├── README.md
-├── server.js
+└── server.js
 
 ## HOW THE APP WORKS
 1. The frontend is served by the Express server (`server.js`).
