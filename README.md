@@ -36,7 +36,6 @@ dictionary_lookup_app/
 ├── server.js
 
 
-
 ## ⚙️ How This Project Works
 1. The frontend is served by the Express server (`server.js`).
 2. When a user enters a word and clicks **Search**, the frontend sends an HTTP GET request to the `/define` endpoint using `fetch()`.
@@ -63,6 +62,7 @@ node server.js
 
 ## Open the app in your browser
 http://localhost:3000
+
 
 ## ⚠️ Important Notes
 
