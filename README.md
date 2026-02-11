@@ -56,7 +56,7 @@ dictionary_lookup_app/
 6. The frontend displays the definition on the page.
 7. When the user opens `allword.html` , `scripts.js` fetches all entries from the /words endpoint.
 
-**Note:** The frontend never accesses `dictionary.json` directly; all communication goes through `server.js`.
+**Note:** The frontend never accesses `dictionary.json` directly; all communication goes through the backend `server.js`.
 
 ## How to Run the Project Locally
  1. Clone the repository, git clone <repository-url>
