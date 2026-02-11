@@ -7,6 +7,7 @@ It uses a Node.js and Express backend to serve word definitions from a JSON file
 
 ##  PROJECT FEATURES
 - Search for word and definitions
+- View all dictionary entries on a separate page (allwords.html)
 - Backend API built with Express (`server.js`)
 - Frontend served directly by the backend
 - Data stored in a JSON file (`dictionary.json`)
