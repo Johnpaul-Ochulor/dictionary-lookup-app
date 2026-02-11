@@ -52,13 +52,13 @@ dictionary_app.get("/define", (req, res) => {
 
 
 // ************* THIS IS THE CORE CODE BASE NEEDED TO MAKE THIS API WORK, BUT IT LACKS ASTHETICS **********************
-//dictionary_app.get("/words", (req, res) => {
+// dictionary_app.get("/words", (req, res) => {
 //  const totalWords = Object.keys(dictionary).length;
 //  res.status(200).json({
 //    totalWords: totalWords,
 //    words: dictionary
 //  });
-//})
+// })
 
 
 
