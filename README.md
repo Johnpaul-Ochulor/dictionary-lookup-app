@@ -61,7 +61,7 @@ dictionary_lookup_app/
 **Note:** The frontend never accesses `dictionary.json` directly; all communication goes through the backend `server.js`.
 
 ## How to Run the Project Locally
- 1. Clone the repository, git clone <repository-url>
+1. Clone the repository, git clone <repository-url>
 2. Navigate into the project folder, cd dictionary_lookup_app
 3. Install dependencies, npm install
 4. Start the server in your terminal, node server.js
