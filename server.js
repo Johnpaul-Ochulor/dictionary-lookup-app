@@ -36,7 +36,7 @@ dictionary_app.get("/define", (req, res) => {
   }
 
   res.json({
-    word: word.toLowerCase(),
+    word: word.toUpperCase(),
     definition
   });
 });
