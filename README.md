@@ -56,7 +56,7 @@ dictionary_lookup_app/
 4. The backend reads `dictionary.json` using Node's `fs` module and searches for the requested word.
 5. The backend sends back the definition as JSON.
 6. The frontend displays the definition on the page.
-7. When the user opens `allword.html` , `scripts.js` fetches all entries from the /words endpoint.
+7. When the user opens `allword.html` , `scripts.js` fetches all entries from the /words endpoint(Or you can use the hamburger at the top right of the page).
 
 **Note:** The frontend never accesses `dictionary.json` directly; all communication goes through the backend `server.js`.
 
