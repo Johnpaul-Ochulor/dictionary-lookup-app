@@ -106,7 +106,7 @@ Worked on dictionary.json, added features to the frontend, and made major contri
 Worked on implementing endpoints and returning all dictionary entries.
 
 - Agbele Thanks / thanksagbele@gmail.com
-Worked on scripts.js, backend testing, and major backend contributions.
+Worked on server.js, wrote the server.js code, backend testing, and major backend contributions.
  
 - Akinleye Toluwanimi / akinleyetoluwanimi@gmail.com
 Worked on project documentation.
