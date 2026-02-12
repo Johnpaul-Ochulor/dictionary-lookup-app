@@ -26,7 +26,7 @@ It uses a Node.js and Express backend to serve word definitions from a JSON file
 ## PROJECT USAGE
 1. Users can enter a word in the search box and click the **Search** button.
 2. The app will display the definition of the word if it exists in `dictionary.json`.
-3. If the word is not found, it will display a message indicating that the word is not in the dictionary.
+3. If the word is not found, it will display a message indicating that the word is not found in the dictionary.
 
 ## 📂 Project Structure
 
