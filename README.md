@@ -86,12 +86,15 @@ Initialized the project, set up Git and GitHub repository, installed Express, ma
 - Nwaeze Akumunicah / nwaezeakumunicah@gmail.com  (devsirmic branch)
 Worked on the frontend: HTML, CSS, and scripts.js.
 
-- Oweni Wenduka / oweniwenduka@gmail.com (nduka branch)
+- Oweniwe Nduka / oweniwenduka@gmail.com (nduka branch)
 Worked on dictionary.json, added features to the frontend, and made major contributions to the project.
 
 - Agbele Thanks / thanksagbele@gmail.com
 Worked on scripts.js, backend testing, and major backend contributions.
  
+- Akinleye Toluwanimi / akinleyetoluwanimi@gmail.com
+Worked on project documentation.
+
 - Ademola Fatimah / Ademolafatimah1410@gmail.com
 Initial project coordinator, worked on backend development and testing.
 
@@ -101,8 +104,6 @@ Worked on project documentation.
 - Ahmed Aminat / ahmedaminat322@gmail.com
 Worked on project documentation.
 
-- Akinleye Toluwanini / akinleyetoluwanini@gmail.com
-Worked on project documentation.
 
 - Stanley Mailbsg / stanleymailbsg@gmail.com
 Worked on implementing endpoints and returning all dictionary entries.
