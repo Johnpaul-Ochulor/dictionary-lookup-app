@@ -111,7 +111,7 @@ Worked on project documentation.
 - Ademola Fatimah / Ademolafatimah1410@gmail.com
 Initial project coordinator, worked on backend development and testing.
 
-- Ifeoma Love / ifeomalove333@gmail.com
+- Agba loveth ifeoma  / ifeomalove333@gmail.com
 Worked on project documentation.
 
 - Ahmed Aminat / ahmedaminat322@gmail.com
