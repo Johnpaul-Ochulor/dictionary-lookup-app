@@ -73,11 +73,11 @@ http://localhost:3000
 http://localhost:3000/allwords.html 
 - (Or you can use the hamburger at the top right of the page)
 
-## To run contact page, run on your browser
+## To open contact page, run on your browser
  http://localhost:3000/contact.html 
  - (Or you can use the hamburger at the top right of the page)
 
-## To run about page, run on your browser
+## To open about page, run on your browser
 http://localhost:3000/about.html 
 - (Or you can use the hamburger at the top right of the page)
 
