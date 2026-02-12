@@ -102,6 +102,9 @@ Worked on the frontend: HTML, CSS, and scripts.js.
 - Oweniwe Nduka / oweniwenduka@gmail.com (nduka branch)
 Worked on dictionary.json, added features to the frontend, and made major contributions to the project.
 
+- Stanley Azubuike / stanleymailbag@gmail.com (words branch)
+Worked on implementing endpoints and returning all dictionary entries.
+
 - Agbele Thanks / thanksagbele@gmail.com
 Worked on scripts.js, backend testing, and major backend contributions.
  
@@ -117,9 +120,6 @@ Worked on project documentation.
 - Ahmed Aminat / ahmedaminat322@gmail.com
 Worked on project documentation.
 
-
-- Stanley Azubuike / stanleymailbag@gmail.com
-Worked on implementing endpoints and returning all dictionary entries.
 
 ## LICENSE 
 This project is for educational purposes only.
