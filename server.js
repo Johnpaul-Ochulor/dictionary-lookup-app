@@ -42,18 +42,6 @@ dictionary_app.get("/define", (req, res) => {
 });
 
 
-
-
-
-
-
-// ************** THIS SECTION IS ROLE 5. *****************************************************************************
-// ************** CONTRIBUTED BY STANLEY AZUBUIKE (stanleymailbag@gmail.com) TO GROUP 2 OF OUR CAPSTONE PROJECT *******
-// ************** THE /WORDS  ENDPOINT  THAT RETURNS ALL WORDS IN THE JSON DICTIONAY****************************************
-
-
-
-
 dictionary_app.get('/words', (req, res) => {
   try {
 
@@ -69,13 +57,6 @@ dictionary_app.get('/words', (req, res) => {
     });
   }
 });
-
-
-
-
-
-
-// ********************* END OF ROLE 5 ***********************************************************
 
 
 
