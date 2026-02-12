@@ -35,7 +35,9 @@ dictionary_lookup_app/
 ├── git folder
 ├── node_modules(not pushed to github)
 └── public/
+    ├── about.html
     ├── allwords.html
+    ├── contact.html
     ├── index.html
     ├── logo.jpeg
     ├── scripts.js
