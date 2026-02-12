@@ -13,7 +13,7 @@ It uses a Node.js and Express backend to serve word definitions from a JSON file
 - Data stored in a JSON file (`dictionary.json`)
 - Git and GitHub used for team collaboration
 
-## TECHONOLOGY USED 
+## TECHONOLOGIES USED 
 - HTML
 - CSS
 - JavaScript
@@ -73,7 +73,7 @@ http://localhost:3000
 http://localhost:3000/allwords.html 
 - (Or you can use the hamburger at the top right of the page)
 
- ## To run contact page, run on your browser
+## To run contact page, run on your browser
  http://localhost:3000/contact.html 
  - (Or you can use the hamburger at the top right of the page)
 
