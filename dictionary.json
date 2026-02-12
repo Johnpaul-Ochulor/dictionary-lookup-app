@@ -84,5 +84,20 @@
   "virtualenv": "A tool for creating isolated Python environments.",
   "vm": "Virtual Machine; a software emulation of a physical computer.",
   "webpack": "A module bundler for JavaScript applications.",
-  "xml": "Extensible Markup Language; a markup language for storing structured data."
+  "xml": "Extensible Markup Language; a markup language for storing structured data.",
+    "authentication": "The process of verifying the identity of a user or system.",
+  "authorization": "The process of granting or denying access to resources after authentication.",
+  "backend": "The server-side part of an application that handles logic, databases, and APIs.",
+  "bit": "The smallest unit of data in computing, represented as 0 or 1.",
+  "byte": "A unit of digital information consisting of 8 bits.",
+  "cdn": "Content Delivery Network; a distributed network of servers that delivers content faster to users.",
+  "cybersecurity": "The practice of protecting systems, networks, and data from digital attacks.",
+  "devops": "A set of practices that combines software development and IT operations.",
+  "firmware": "Permanent software programmed into hardware devices.",
+  "firewall": "A security system that monitors and controls incoming and outgoing network traffic.",
+  "open source": "Software whose source code is freely available for modification and distribution.",
+  "scalability": "The ability of a system to handle increasing amounts of work or users.",
+  "testing": "The process of evaluating software to ensure it works as expected.",
+  "url": "Uniform Resource Locator; the address used to access resources on the internet."
+
 }
