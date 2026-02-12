@@ -118,7 +118,7 @@ Worked on project documentation.
 Worked on project documentation.
 
 
-- Stanley Mailbsg / stanleymailbsg@gmail.com
+- Stanley Azubuike / stanleymailbag@gmail.com
 Worked on implementing endpoints and returning all dictionary entries.
 
 ## LICENSE 
