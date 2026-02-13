@@ -1,5 +1,5 @@
 # PROJECT TITLE 
-- Dictionary-Look-Up-App Project
+- Dictionary-Look-Up-App Mini-Project
 
 ## PROJECT DESCRIPTION
 The Dictionary Lookup App is a simple full-stack web application that allows users to search for words and view their meanings.  
