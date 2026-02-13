@@ -96,7 +96,7 @@ http://localhost:3000/about.html
 - Johnpaul Ochulor / johnpaulochulor@gmail.com  (Team Lead – main branch)
 Initialized the project, set up Git and GitHub repository, installed Express, managed merges, and reviewed contributions.
 
-- Nwaeze Akumunicah / nwaezeakumunicah@gmail.com  (devsirmic branch)
+- Nwaezeaku Micah / nwaezeakumicah@gmail.com  (devsirmic branch)
 Worked on the frontend: HTML, CSS, and scripts.js.
 
 - Oweniwe Nduka / oweniwenduka@gmail.com (nduka branch)
