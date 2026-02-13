@@ -105,7 +105,7 @@ Worked on dictionary.json, added features to the frontend, and made major contri
 - Stanley Nelson Azubuike / stanleymailbag@gmail.com (words branch)
 Worked on implementing endpoints and returning all dictionary entries.
 
-- Agbele Thanks / thanksagbele@gmail.com
+- Agbeble Thanks / thanksagbeble@gmail.com
 Worked on server.js, wrote the server.js code, backend testing, and major backend contributions.
  
 - Akinleye Toluwanimi / akinleyetoluwanimi@gmail.com
